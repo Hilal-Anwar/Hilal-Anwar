@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about CAS(computer algebra system[JMaths](https://github.com/Hilal-Anwar/JMaths)), android and web devlopment.
 
-- 💞️ I’m looking to collaborate on making tools like Managment system,Algebric calutator something similar [WolformAlpha](https://www.wolframalpha.com)
+- 💞️ I’m looking to collaborate on making tools like Managment system,Algebric calculator something similar [WolformAlpha](https://www.wolframalpha.com)
 
 - 📫 How to reach me on [Reddit](https://www.reddit.com/user/CodeBoy142857/)
 
