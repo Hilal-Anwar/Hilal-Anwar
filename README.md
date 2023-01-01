@@ -3,7 +3,7 @@
 -  [Ascii Chess](https://github.com/Hilal-Anwar/AsciiChess)
 - 🌱 I’m currently learning about CAS(computer algebra system [JMaths](https://github.com/Hilal-Anwar/JMaths)) android and web devlopment.
 - 💞️ I’m looking to collaborate on making tools like Student managment system,something like [Wolform|Alpha](https://www.wolframalpha.com)
-- 📫 How to reach me on [Reddit](www.reddit.com/u/CodeBoy142857)
+- 📫 How to reach me on [Reddit](u/CodeBoy142857)
 
 <!---
 Hilal-Anwar/Hilal-Anwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
