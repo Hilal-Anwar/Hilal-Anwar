@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hilal-Anwar
 
-- 👀 I’m interested in coding and love to work on diffrenrt varity of problems.I like to make games and intested in making automation tool.I have made games lik
+- 👀 I’m interested in coding and love to work on different variety of problems.I like to make games and intested in making automation tool.I have made games like
   [Ascii Chess](https://github.com/Hilal-Anwar/AsciiChess)
 
 - 🌱 I’m currently learning about CAS(computer algebra system[JMaths](https://github.com/Hilal-Anwar/JMaths)) android and web devlopment.
