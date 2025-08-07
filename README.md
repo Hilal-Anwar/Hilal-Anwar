@@ -1,7 +1,7 @@
-# Hi, I’m @Hilal-Anwar 👋
+# Hi, I’m @Helal-Anwar 👋
 
 ## About Me
-I am Hilal Anwar, a passionate self-taught Java developer with a love for coding and game development. My projects include games like [Ascii Chess](https://github.com/Hilal-Anwar/AsciiChess), [Flappy Bird](https://github.com/Hilal-Anwar/FlappyBird), and [Tetris](https://github.com/Hilal-Anwar/Tetris). I’m currently exploring Computer Algebra Systems through [JMaths](https://github.com/Hilal-Anwar/JMaths), as well as Android and web development. I’m excited about creating automation tools and innovative solutions like management systems and algebraic calculators.
+I am Helal Anwar, a passionate self-taught Java developer with a love for coding and game development. My projects include games like [Ascii Chess](https://github.com/Hilal-Anwar/AsciiChess), [Flappy Bird](https://github.com/Hilal-Anwar/FlappyBird), and [Tetris](https://github.com/Hilal-Anwar/Tetris). I’m currently exploring Computer Algebra Systems through [JMaths](https://github.com/Hilal-Anwar/JMaths), as well as Android and web development. I’m excited about creating automation tools and innovative solutions like management systems and algebraic calculators.
 
 ## Skills
 | Skill   | Proficiency |
