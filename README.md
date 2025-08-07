@@ -7,8 +7,15 @@ I am Hilal Anwar, a passionate self-taught Java developer with a love for coding
 | Skill   | Proficiency |
 |---------|-------------|
 | Java    | [![Java](https://geps.dev/progress/80/?title=Java)](https://geps.dev/progress) |
+| Python    | [![Java](https://geps.dev/progress/40/?title=Java)](https://geps.dev/progress) |
+| Kotlin    | [![Java](https://geps.dev/progress/20/?title=Java)](https://geps.dev/progress) |
+| Dart    | [![Java](https://geps.dev/progress/10/?title=Java)](https://geps.dev/progress) |
+| Rust   | [![Java](https://geps.dev/progress/10/?title=Java)](https://geps.dev/progress) |
+| Golang    | [![Java](https://geps.dev/progress/5/?title=Java)](https://geps.dev/progress) |
 | JavaFX  | [![JavaFX](https://geps.dev/progress/70/?title=JavaFX)](https://geps.dev/progress) |
 | CSS     | [![CSS](https://geps.dev/progress/60/?title=CSS)](https://geps.dev/progress) |
+| Android | [![CSS](https://geps.dev/progress/50/?title=CSS)](https://geps.dev/progress) 
+| Sqlite     | [![CSS](https://geps.dev/progress/30/?title=CSS)](https://geps.dev/progress) |
 
 *Note: Percentages are illustrative; adjust them to reflect your actual proficiency.*
 
