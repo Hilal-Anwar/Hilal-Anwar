@@ -6,9 +6,9 @@ I am Hilal Anwar, a passionate self-taught Java developer with a love for coding
 ## Skills
 | Skill   | Proficiency |
 |---------|-------------|
-| Java    | [![Java](https://progress-bar.dev/80/?title=Java)](https://progress-bar.dev) |
-| JavaFX  | [![JavaFX](https://progress-bar.dev/70/?title=JavaFX)](https://progress-bar.dev) |
-| CSS     | [![CSS](https://progress-bar.dev/60/?title=CSS)](https://progress-bar.dev) |
+| Java    | [![Java](https://geps.dev/progress/80/?title=Java)](https://geps.dev/progress) |
+| JavaFX  | [![JavaFX](https://geps.dev/progress/70/?title=JavaFX)](https://geps.dev/progress) |
+| CSS     | [![CSS](https://geps.dev/progress/60/?title=CSS)](https://geps.dev/progress) |
 
 *Note: Percentages are illustrative; adjust them to reflect your actual proficiency.*
 
