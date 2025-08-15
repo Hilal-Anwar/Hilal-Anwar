@@ -1,46 +1,208 @@
-# Hi, I’m @Helal-Anwar 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Helal+Anwar!;Java+Developer+💻;Game+Developer+🎮;Problem+Solver+🚀" />
+</div>
 
-## About Me
-I am Helal Anwar, a passionate self-taught Java developer with a love for coding and game development. My projects include games like [Ascii Chess](https://github.com/Hilal-Anwar/AsciiChess), [Flappy Bird](https://github.com/Hilal-Anwar/FlappyBird), and [Tetris](https://github.com/Hilal-Anwar/Tetris). I’m currently exploring Computer Algebra Systems through [JMaths](https://github.com/Hilal-Anwar/JMaths), as well as Android and web development. I’m excited about creating automation tools and innovative solutions like management systems and algebraic calculators.
+<div align="center">
+  <a href="https://www.linkedin.com/in/helal-anwar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.reddit.com/user/CodeBoy142857/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="reddit logo"  />
+  </a>
+</div>
 
-## Skills
-| Skill   | Proficiency |
-|---------|-------------|
-| Java    | [![Java](https://geps.dev/progress/80/?title=Java)](https://geps.dev/progress) |
-| Python    | [![Java](https://geps.dev/progress/40/?title=Java)](https://geps.dev/progress) |
-| Kotlin    | [![Java](https://geps.dev/progress/20/?title=Java)](https://geps.dev/progress) |
-| Dart    | [![Java](https://geps.dev/progress/10/?title=Java)](https://geps.dev/progress) |
-| Rust   | [![Java](https://geps.dev/progress/10/?title=Java)](https://geps.dev/progress) |
-| Golang    | [![Java](https://geps.dev/progress/5/?title=Java)](https://geps.dev/progress) |
-| JavaFX  | [![JavaFX](https://geps.dev/progress/70/?title=JavaFX)](https://geps.dev/progress) |
-| CSS     | [![CSS](https://geps.dev/progress/60/?title=CSS)](https://geps.dev/progress) |
-| Android | [![CSS](https://geps.dev/progress/50/?title=CSS)](https://geps.dev/progress) 
-| Sqlite     | [![CSS](https://geps.dev/progress/30/?title=CSS)](https://geps.dev/progress) |
+<br clear="both">
 
-*Note: Percentages are illustrative; adjust them to reflect your actual proficiency.*
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hilal-Anwar.Hilal-Anwar&"  />
+</div>
 
-## Projects
-| Project | Description | Link |
-|---------|-------------|------|
-| Ascii Chess | A text-based chess game built with Java. | [Ascii Chess](https://github.com/Hilal-Anwar/AsciiChess) |
-| Flappy Bird | A classic Flappy Bird game implementation. | [Flappy Bird](https://github.com/Hilal-Anwar/FlappyBird) |
-| Tetris | A Java-based Tetris game. | [Tetris](https://github.com/Hilal-Anwar/Tetris) |
-| JMaths | A Computer Algebra System project in development. | [JMaths](https://github.com/Hilal-Anwar/JMaths) |
-| Android Calculator | A simple calculator app for Android. | [Android Calculator](https://github.com/Hilal-Anwar/Android_Calculator) |
-| Calculator | A desktop calculator application. | [Calculator](https://github.com/Hilal-Anwar/Calculator) |
-| Kotlin Tutorials | A collection of Kotlin learning resources. | [Kotlin Tutorials](https://github.com/Hilal-Anwar/KotlinTutorials) |
-| C/C++ Tutorials | Tutorials for C/C++ programming. | [C/C++ Tutorials](https://github.com/Hilal-Anwar/CProjectMake) |
+<h2 align="left">👨‍💻 About Me</h2>
 
-## Collaboration
-I’m eager to collaborate on projects like management systems or algebraic calculators (e.g., similar to [WolframAlpha](https://www.wolframalpha.com)). If you’re working on innovative tools or open-source projects, let’s connect!
+<p align="left">
+🔥 Passionate self-taught Java developer with a love for coding and game development<br>
+🎮 Creator of engaging games like <a href="https://github.com/Hilal-Anwar/AsciiChess">Ascii Chess</a>, <a href="https://github.com/Hilal-Anwar/FlappyBird">Flappy Bird</a>, and <a href="https://github.com/Hilal-Anwar/Tetris">Tetris</a><br>
+🧮 Currently exploring Computer Algebra Systems through <a href="https://github.com/Hilal-Anwar/JMaths">JMaths</a><br>
+📱 Diving into Android and web development<br>
+⚡ Building automation tools and innovative solutions<br>
+🚀 Always excited about creating management systems and algebraic calculators
+</p>
 
-## Contact
-| Platform | Link |
-|----------|------|
-| Reddit   | [CodeBoy142857](https://www.reddit.com/user/CodeBoy142857/) |
+<h2 align="left">🛠 Tech Stack</h2>
 
-## Statistics
-| Metric | Visualization |
-|--------|---------------|
-| GitHub Stats | [![Readme Card](https://github-readme-stats.vercel.app/api?username=Hilal-Anwar)](https://github.com/anuraghazra/github-readme-stats) |
-| Top Languages | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilal-Anwar)](https://github.com/anuraghazra/github-readme-stats) |
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+</div>
+
+<h3 align="left">📊 My Skills Progress</h3>
+
+<table>
+  <tr>
+    <td><b>Language/Tech</b></td>
+    <td><b>Proficiency</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" /></td>
+    <td><img src="https://geps.dev/progress/80?dangerColor=ED8B00&warningColor=ED8B00&successColor=ED8B00" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></td>
+    <td><img src="https://geps.dev/progress/40?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" /></td>
+    <td><img src="https://geps.dev/progress/20?dangerColor=0095D5&warningColor=0095D5&successColor=0095D5" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" /></td>
+    <td><img src="https://geps.dev/progress/10?dangerColor=0175C2&warningColor=0175C2&successColor=0175C2" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" /></td>
+    <td><img src="https://geps.dev/progress/10?dangerColor=000000&warningColor=000000&successColor=000000" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /></td>
+    <td><img src="https://geps.dev/progress/5?dangerColor=00ADD8&warningColor=00ADD8&successColor=00ADD8" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat&logo=java&logoColor=white" /></td>
+    <td><img src="https://geps.dev/progress/70?dangerColor=ED8B00&warningColor=ED8B00&successColor=ED8B00" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /></td>
+    <td><img src="https://geps.dev/progress/60?dangerColor=1572B6&warningColor=1572B6&successColor=1572B6" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" /></td>
+    <td><img src="https://geps.dev/progress/50?dangerColor=3DDC84&warningColor=3DDC84&successColor=3DDC84" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" /></td>
+    <td><img src="https://geps.dev/progress/30?dangerColor=07405E&warningColor=07405E&successColor=07405E" /></td>
+  </tr>
+</table>
+
+<h2 align="left">🚀 Featured Projects</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🎮 Game Development</h3>
+        <a href="https://github.com/Hilal-Anwar/AsciiChess">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hilal-Anwar&repo=AsciiChess&theme=react&border_color=61dafb&border_radius=10" alt="Ascii Chess" />
+        </a>
+        <br><br>
+        <a href="https://github.com/Hilal-Anwar/FlappyBird">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hilal-Anwar&repo=FlappyBird&theme=react&border_color=61dafb&border_radius=10" alt="Flappy Bird" />
+        </a>
+        <br><br>
+        <a href="https://github.com/Hilal-Anwar/Tetris">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hilal-Anwar&repo=Tetris&theme=react&border_color=61dafb&border_radius=10" alt="Tetris" />
+        </a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🧮 Development Tools</h3>
+        <a href="https://github.com/Hilal-Anwar/JMaths">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hilal-Anwar&repo=JMaths&theme=react&border_color=61dafb&border_radius=10" alt="JMaths" />
+        </a>
+        <br><br>
+        <a href="https://github.com/Hilal-Anwar/Android_Calculator">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hilal-Anwar&repo=Android_Calculator&theme=react&border_color=61dafb&border_radius=10" alt="Android Calculator" />
+        </a>
+        <br><br>
+        <a href="https://github.com/Hilal-Anwar/Calculator">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hilal-Anwar&repo=Calculator&theme=react&border_color=61dafb&border_radius=10" alt="Calculator" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 align="center">📚 Educational Resources</h3>
+<div align="center">
+  <a href="https://github.com/Hilal-Anwar/KotlinTutorials">
+    <img src="https://img.shields.io/badge/Kotlin%20Tutorials-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Tutorials" />
+  </a>
+  <a href="https://github.com/Hilal-Anwar/CProjectMake">
+    <img src="https://img.shields.io/badge/C%2FC%2B%2B%20Tutorials-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++ Tutorials" />
+  </a>
+</div>
+
+<br>
+
+<h2 align="left">🤝 Let's Collaborate!</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=3500&lines=Looking+for+collaborators!+🤝;Management+Systems+💼;Algebraic+Calculators+🧮;Open+Source+Projects+🌟" />
+</div>
+
+<p align="center">
+💡 I'm passionate about collaborating on:<br>
+🏢 <b>Management Systems</b> - Building efficient business solutions<br>
+🧮 <b>Algebraic Calculators</b> - Creating tools like <a href="https://www.wolframalpha.com">WolframAlpha</a><br>
+🔧 <b>Automation Tools</b> - Streamlining workflows and processes<br>
+🌟 <b>Open Source Projects</b> - Contributing to the developer community
+</p>
+
+<div align="center">
+  <a href="https://github.com/Hilal-Anwar">
+    <img src="https://img.shields.io/badge/Let's%20Connect!-FF6B6B?style=for-the-badge&logoColor=white" alt="Let's Connect" />
+  </a>
+</div>
+
+<h2 align="left">📫 Get In Touch</h2>
+
+<div align="center">
+  <a href="https://www.reddit.com/user/CodeBoy142857/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<h2 align="left">📈 GitHub Analytics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hilal-Anwar&theme=react&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hilal-Anwar&theme=react&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilal-Anwar&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hilal-Anwar&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hilal-Anwar&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=50&duration=3500&lines=Thanks+for+visiting!+🙏;Happy+Coding!+💻;Let's+build+something+amazing!+🚀" />
+</div>
