@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
@@ -110,8 +110,8 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hilal-Anwar&repo=AsciiChess&theme=react&border_color=61dafb&border_radius=10" alt="Ascii Chess" />
         </a>
         <br><br>
-        <a href="https://github.com/Hilal-Anwar/FlappyBird">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hilal-Anwar&repo=FlappyBird&theme=react&border_color=61dafb&border_radius=10" alt="Flappy Bird" />
+        <a href="https://github.com/Hilal-Anwar/Flappy_Bird_ascii">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hilal-Anwar&repo=Flappy_Bird_ascii&theme=react&border_color=61dafb&border_radius=10" alt="Flappy Bird" />
         </a>
         <br><br>
         <a href="https://github.com/Hilal-Anwar/Tetris">
